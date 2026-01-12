@@ -1,0 +1,144 @@
+{
+  "version": 1,
+  "base_track": "Amazing Grace",
+  "base_artist": "Judy Collins",
+  "createdAt": "2026-01-12T01:01:34.349818Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Amazing Grace",
+      "artist": "Pras",
+      "has_synced": false,
+      "path": "select/01_Amazing_Grace_Pras.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Amazing Grace",
+      "artist": "Hayley Westenra",
+      "has_synced": true,
+      "path": "select/02_Amazing_Grace_Hayley_Westenra.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Amazing Grace",
+      "artist": "Hayley Westenra",
+      "has_synced": true,
+      "path": "select/03_Amazing_Grace_Hayley_Westenra.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Amazing Grace",
+      "artist": "Hayley Westenra",
+      "has_synced": true,
+      "path": "select/04_Amazing_Grace_Hayley_Westenra.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Amazing Grace",
+      "artist": "Hayley Westenra - Ennio Morricone",
+      "has_synced": true,
+      "path": "select/05_Amazing_Grace_Hayley_Westenra_-_Ennio_Morricone.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Amazing Grace (with Minako Honda )",
+      "artist": "Hayley Westenra",
+      "has_synced": false,
+      "path": "select/06_Amazing_Grace_(with_Minako_Honda_)_Hayley_Westenra.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Amazing Grace (live)",
+      "artist": "Hayley Westenra",
+      "has_synced": true,
+      "path": "select/07_Amazing_Grace_(live)_Hayley_Westenra.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Amazing Grace (traditional)",
+      "artist": "Hayley Westenra",
+      "has_synced": false,
+      "path": "select/08_Amazing_Grace_(traditional)_Hayley_Westenra.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Amazing Grace",
+      "artist": "The A-Sides",
+      "has_synced": false,
+      "path": "select/09_Amazing_Grace_The_A-Sides.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Amazing Grace",
+      "artist": "Throwing Muses",
+      "has_synced": false,
+      "path": "select/10_Amazing_Grace_Throwing_Muses.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "AMAZING GRACE",
+      "artist": "DaBaby",
+      "has_synced": false,
+      "path": "select/11_AMAZING_GRACE_DaBaby.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "AMAZING GRACE",
+      "artist": "DaBaby",
+      "has_synced": true,
+      "path": "select/12_AMAZING_GRACE_DaBaby.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Amazing Grace",
+      "artist": "Bryan Ferry",
+      "has_synced": true,
+      "path": "select/13_Amazing_Grace_Bryan_Ferry.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Amazing Grace / Til the Chicken (Remastered)",
+      "artist": "Tori Amos",
+      "has_synced": true,
+      "path": "select/14_Amazing_Grace___Til_the_Chicken_(Remastered)_Tori_Amos.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Amazing Grace \u0000 Til the Chicken",
+      "artist": "Tori Amos",
+      "has_synced": true,
+      "path": "select/15_Amazing_Grace_\u0000_Til_the_Chicken_Tori_Amos.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Amazing Grace",
+      "artist": "Delta Goodrem",
+      "has_synced": true,
+      "path": "select/16_Amazing_Grace_Delta_Goodrem.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Amazing Grace",
+      "artist": "Judy Collins",
+      "has_synced": false,
+      "path": "select/pl_01_Amazing_Grace_Judy_Collins.txt"
+    }
+  ]
+}
